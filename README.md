@@ -5,8 +5,7 @@
 
 
 ### Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=marcgloaguen&show_icons=true)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcgloaguen&hide_title=true&bg_color=FFFF&color=1A5276&point=1A5276&line=F5B041)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Top Langages
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcgloaguen&layout=compact)
 
