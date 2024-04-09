@@ -16,5 +16,3 @@ I am passionate about exploring the frontiers of generative AI and am constantly
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcgloaguen&layout=compact)
 
----
-[![LinkedIn](LinkedIn.png)](https://www.linkedin.com/in/marcgloaguen)
