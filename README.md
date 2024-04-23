@@ -8,11 +8,3 @@ My expertise lies in the creation and deployment of artificial intelligence algo
 
 I am passionate about exploring the frontiers of generative AI and am constantly seeking new ways to apply these technological advances to solve real-world problems and create innovative solutions.
 
-
-
-#### GitHub Statistics
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcgloaguen&hide_title=true&bg_color=FFFF&color=1A5276&point=1A5276&line=F5B041)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[//]: # (![Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=marcgloaguen&layout=compact&#41;)
-
