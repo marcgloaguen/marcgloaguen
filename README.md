@@ -1,10 +1,18 @@
-## 📊 AI Developer | Data Scientist
+#### 📊 AI Developer | Data & ML Engineer
 
+## About me
 
+I'm passionate about harnessing the power of AI models. My expertise in python allows me to develop machine learning models and specialise in finetuning Large Language Model ( LLM ) or Retrieval Augmented Generation (RAG) .
 
-As a *data scientist* and *machine learning engineer*, I specialize in 🤖 **generative AI**. I make these technologies available to you to customize and turn them into powerful tools.
+I am passionate about exploring the frontiers of generative AI and am continually looking for new ways to apply these technological advances to solve real-world problems and create innovative solutions. 
 
-My expertise lies in the creation and deployment of artificial intelligence algorithms capable of generating content autonomously, enabling new horizons to be explored in areas such as artistic content creation, text generation, creativity enhancement and many others.
+My expertise enables me to create and deploy artificial intelligence algorithms capable of generating content autonomously, opening up new horizons.
 
-I am passionate about exploring the frontiers of generative AI and am constantly seeking new ways to apply these technological advances to solve real-world problems and create innovative solutions.
+## What I Can Do
+
+- **Python Development :** Proficient in Python programming for developing AI algorithms and applications.
+- **Model Deployment :** Experienced in deploying models via APIs for accessibility in various applications.
+- **LLM Fine-tuning :** Skilled in fine-tuning large language models (LLMs) for specific tasks, including utilizing LLMs with Retrieval-Augmented Generation (RAG) capabilities.
+- **Data Manipulation :** Proficient in transforming and manipulating data for AI model training and analysis.
+
 
