@@ -1,4 +1,4 @@
-#### 📊 AI Developer | Data & ML Engineer
+#### 📊 Data Scientist | AI & Python Developer
 
 ## About me
 
