@@ -2,9 +2,9 @@
 *Data Analysis, Machine Learning, LLM Engineering, Backend Development*
 
 ### 👋 About me
-Hi, I’m Marc from France, a Senior Python Developer specializing in data. I’m passionate about exploring the potential of data, including data engineering, data analysis, and machine learning. My journey began with an interest in NLP, and with the advent of new large language models, I’m now focused on fine-tuning them and working on retrieval-augmented generation (RAG) techniques and fine-tuning.
+Hi! I’m Marc, from France. I am a Data Scientist and Senior Developer specializing in Python. I have collaborated on various analytics engineering and machine learning projects. I’m now focused to developed fine-tuning and Retrieval-Augmented Generation (RAG) projects for Large Language Models (LLM).
 
-Currently, I’m shifting my focus towards mastering backend development with Python, particularly using Django. I’ve previously worked with several frameworks such as Flask and FastAPI, and now I’m committed to an intensive learning experience with Django to deepen my expertise in this area.
+Currently, I'm shifting my focus towards mastering backend development with Python, particularly using Django. This exciting step allows me to diversify my skills and explore new aspects of web development. I am always looking for new challenges and opportunities to learn and grow professionally.
 
 ### 🛠️ Technologies & Tools
 
