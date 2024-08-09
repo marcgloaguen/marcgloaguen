@@ -1,8 +1,8 @@
 #### 📊 Data Scientist | Python Developer
-*Data Analysis, Machine Learning, LLM Engineering, Backend Development*
+*Data Analysis, Machine Learning, LLM Engineering, Web Development (API & Backend)*
 
 ### 👋 About me
-Hi! I’m Marc, from France. I am a Data Scientist and Senior Developer specializing in Python. I have collaborated on various analytics engineering and machine learning projects. I’m now focused to developed fine-tuning and Retrieval-Augmented Generation (RAG) projects for Large Language Models (LLM).
+Hi! I’m Marc, from France. I am a Data Scientist and Senior Python Developer. I have collaborated on various analytics engineering and machine learning projects. I’m now focused to developed fine-tuning and Retrieval-Augmented Generation (RAG) projects for Large Language Models (LLM).
 
 Currently, I'm shifting my focus towards mastering backend development with Python, particularly using Django. This exciting step allows me to diversify my skills and explore new aspects of web development. I am always looking for new challenges and opportunities to learn and grow professionally.
 
@@ -14,7 +14,7 @@ Currently, I'm shifting my focus towards mastering backend development with Pyth
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-Transformers-FF9900?style=flat&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜🔗%20LangChain-375961?logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
