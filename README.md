@@ -13,6 +13,7 @@ Currently, I'm shifting my focus towards mastering backend development with Pyth
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-Transformers-FF9900?style=flat&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜🔗%20LangChain-375961?logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
