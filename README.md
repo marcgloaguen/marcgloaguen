@@ -1,35 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Styled Div Example</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap'); /* Importer la police Oswald */
-        .styled-div {
-            margin-top: 0.5em;
-            width: 100%;
-            max-width: 900px;
-            background: #668b96;
-            padding: 0.1em 0.5em;
-            font-family: 'Oswald', sans-serif;
-            font-weight: bold;
-            color: white;
-            text-align: left;
-            box-sizing: border-box;
-            font-size: 2em;
-            border-radius: 0.2em;
-            display: inline-block; /* Ajuste le div pour qu'il ne prenne que l'espace nécessaire */
-        }
-    </style>
-</head>
-<body>
-    <div class="styled-div">
-        Marc GLOAGUEN
-    </div>
-</body>
-</html>
-
+<img src="https://placehold.co/500x40/668b96/white?text=%20Marc%20GLOAGUEN%20&font=oswald" alt="Marc GLOAGUEN" style="width: 100%; max-width: 900px; height: auto; margin-top: 0.5em; border-radius: 0.5em">
 
 #### 📊 Data Scientist | Python Developer
 *Data Analysis, Machine Learning, LLM Engineering, Web Development (API & Backend), Fabric Analytics Engineering*
