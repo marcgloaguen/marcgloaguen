@@ -1,10 +1,30 @@
+<html>
+    <div style="
+        margin-top: 0.5em;
+        width: 100%;
+        max-width: 900px;
+        background: #668b96;
+        padding: 0.1em 0.5em 0.1em;
+        font-family: 'Oswald', sans-serif;
+        font-weight: bold;
+        color: white; 
+        text-align: left; 
+        box-sizing: border-box;
+        font-size: 2em;
+        border-radius: 0.2em">
+Marc GLOAGUEN
+    </div>
+</html>
+
 #### 📊 Data Scientist | Python Developer
-*Data Analysis, Machine Learning, LLM Engineering, Web Development (API & Backend)*
+*Data Analysis, Machine Learning, LLM Engineering, Web Development (API & Backend), Fabric Analytics Engineering*
 
 ### 👋 About me
-Hi! I’m Marc, from France. I am a Data Scientist and Senior Python Developer. I have collaborated on various analytics engineering and machine learning projects. I’m now focused to developed fine-tuning and Retrieval-Augmented Generation (RAG) projects for Large Language Models (LLM).
+Hi! I’m **Marc**, from France. I am a **Data Scientist** and **Senior Python Developer** with experience in various analytical engineering and machine learning projects. Currently, I specialize in analyzing and leveraging complex **financial data** to deliver customized **Power BI solutions**. I manage the entire **data processing** and **data orchestration** workflows, ensuring data is optimized to support efficient and informed decision-making.
 
-Currently, I'm shifting my focus towards mastering backend development with Python, particularly using Django. This exciting step allows me to diversify my skills and explore new aspects of web development. I am always looking for new challenges and opportunities to learn and grow professionally.
+Outside of work, I dedicate time to personal projects. I’m currently focused on developing **fine-tuning** and **Retrieval-Augmented Generation (RAG)** projects for **Large Language Models (LLM)**. Recently, I’ve also been splitting my focus towards mastering **backend development** with Python, particularly using **Django**. 
+
+I am always on the lookout for new challenges and opportunities to continue learning and growing professionally.
 
 ### 🛠️ Technologies & Tools
 
@@ -15,7 +35,6 @@ Currently, I'm shifting my focus towards mastering backend development with Pyth
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![Prophet](https://img.shields.io/badge/Prophet-425893?style=flat&logo=meta&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-Transformers-FF9900?style=flat&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜🔗%20LangChain-375961?logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
