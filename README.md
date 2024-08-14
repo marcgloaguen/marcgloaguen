@@ -1,4 +1,4 @@
-<img src="https://placehold.co/500x40/668b96/white?text=%20Marc%20GLOAGUEN%20&font=oswald" alt="Marc GLOAGUEN" style="width: 100%; max-width: 900px; height: auto; margin-top: 0.5em; border-radius: 0.5em">
+<img src="https://placehold.co/500x40/668b96/white?text=%20Marc%20GLOAGUEN&font=oswald" alt="Marc GLOAGUEN" style="width: 100%; max-width: 900px; height: auto; margin-top: 10px; border-radius: 10px">
 
 #### 📊 Data Scientist | Python Developer
 *Data Analysis, Machine Learning, LLM Engineering, Web Development (API & Backend), Fabric Analytics Engineering*
