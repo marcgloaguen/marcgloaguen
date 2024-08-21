@@ -6,7 +6,7 @@
 ### 👋 About me
 Hi! I’m **Marc**, from France. I am a **Data Scientist** and **Senior Python Developer** with experience in various analytics engineering and machine learning projects. Currently, I'm working on leveraging complex **financial data** to deliver customized **Power BI solutions**. I also manage all **data processing** and **data orchestration** workflows.
 
-Outside of work, I dedicate time to personal projects. I’m currently focused on **Generative AI**, especially on **fine-tuning** and **RAG (Retrieval-Augmented Generation)** for **LLM (Large Language Models)**. Recently, I’ve also started concentrating on mastering their integration into backend development with **Python**, particularly using **FastAPI**, **LangServe**, or **Django**.
+Outside of my work, I spend time on personal projects. I’m currently focused on the development of **Generative AI**, especially on **fine-tuning** and **RAG (Retrieval-Augmented Generation)** for **LLM (Large Language Models)**. Recently, I’ve also started to focus on mastering their integration into backend development with **Python**, particularly using **FastAPI**, **LangServe**, or **Django**.
 
 I am always on the lookout for new challenges and opportunities to continue learning and growing professionally.
 
@@ -28,20 +28,14 @@ I am always on the lookout for new challenges and opportunities to continue lear
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
-
-
 
 
 ### 📊 GitHub Stats
