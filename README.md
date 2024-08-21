@@ -1,14 +1,15 @@
 <img src="https://placehold.co/500x40/bfcbba/black?text=%20Marc%20GLOAGUEN&font=oswald" alt="Marc GLOAGUEN" style="width: 100%; max-width: 900px; height: auto; margin-top: 10px; border-radius: 10px">
 
-#### 📊 Data Scientist | Python Developer
-*Data Analysis, Machine Learning, LLM Engineering, Web Development (API & Backend), Fabric Analytics Engineering*
+#### 🧠 Data Scientist | 🐍 Senior Python Developer
+*Data Analysis, Machine Learning, Generative AI, LLM Engineering, Web Development (API & Backend)*
 
 ### 👋 About me
-Hi! I’m **Marc**, from France. I am a **Data Scientist** and **Senior Python Developer** with experience in various analytical engineering and machine learning projects. Currently, I specialize in analyzing and leveraging complex **financial data** to deliver customized **Power BI solutions**. I manage the entire **data processing** and **data orchestration** workflows.
+Hi! I’m **Marc**, from France. I am a **Data Scientist** and **Senior Python Developer** with experience in various analytics engineering and machine learning projects. Currently, I'm working on leveraging complex **financial data** to deliver customized **Power BI solutions**. I also manage all **data processing** and **data orchestration** workflows.
 
-Outside of work, I dedicate time to personal projects. I’m currently focused on developing **fine-tuning** and **Retrieval-Augmented Generation (RAG)** projects for **Large Language Models (LLM)**. Recently, I’ve also been splitting my focus towards mastering **backend development** with Python, particularly using **Django**. 
+Outside of work, I dedicate time to personal projects. I’m currently focused on **Generative AI**, especially on **fine-tuning** and **RAG (Retrieval-Augmented Generation)** for **LLM (Large Language Models)**. Recently, I’ve also started concentrating on mastering their integration into backend development with **Python**, particularly using **FastAPI**, **LangServe**, or **Django**.
 
 I am always on the lookout for new challenges and opportunities to continue learning and growing professionally.
+
 ### 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
