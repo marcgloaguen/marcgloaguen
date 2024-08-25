@@ -1,7 +1,7 @@
 <img src="https://placehold.co/500x40/bfcbba/black?text=%20Marc%20GLOAGUEN&font=oswald" alt="Marc GLOAGUEN" style="width: 100%; max-width: 900px; height: auto; margin-top: 10px; border-radius: 10px">
 
 #### 🧠 Data Scientist | 🐍 Python Developer (3+ years experience)
-*BI Analytics, ETL, Machine Learning, Generative AI, LLM Engineering, Web Development (API & Backend)*
+*BI Analytics, ETL, Machine Learning, Generative AI, LLM Engineering, API & Backend WebDevelopment*
 
 ### 👋 About me
 Hi! I’m **Marc**, from France. I am a **Data Scientist** and **Python Developer** with experience in various analytics engineering and machine learning projects. Currently, I'm working on leveraging complex **financial data** to deliver customized **Power BI solutions**. I also manage all **data processing** and **data orchestration** workflows.
