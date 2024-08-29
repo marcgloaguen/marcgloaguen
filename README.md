@@ -12,9 +12,10 @@ I am always on the lookout for new challenges and opportunities to continue lear
 
 ### 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-4375ab?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3b3b3b?style=flat&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Polars](https://img.shields.io/badge/-Polars-000000?logo=Polars&logoColor=white)
+![Polars](https://img.shields.io/badge/-Polars-3c4faf?logo=Polars&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/-DuckDB-FAF250?logo=DuckDB&logoColor=black)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
