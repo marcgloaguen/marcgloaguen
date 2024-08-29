@@ -1,7 +1,7 @@
 <img src="https://placehold.co/500x40/bfcbba/black?text=%20Marc%20GLOAGUEN&font=oswald" alt="Marc GLOAGUEN" style="width: 100%; max-width: 900px; height: auto; margin-top: 10px; border-radius: 10px">
 
 #### 🧠 Data Scientist | 🐍 Python Developer (3+ years experience)
-*BI Analytics, ETL, Machine Learning, Generative AI, LLM Engineering, API & Backend WebDevelopment*
+*BI Analytics, ETL, Machine Learning, GenAI, LLM Engineering, API & WebBackend Development*
 
 ### 👋 About me
 Hi! I’m **Marc**, from France. I am a **Data Scientist** and **Python Developer** with experience in various analytics engineering and machine learning projects. Currently, I'm working on leveraging complex **financial data** to deliver customized **Power BI solutions**. I also manage all **data processing** and **data orchestration** workflows.
@@ -39,8 +39,8 @@ I am always on the lookout for new challenges and opportunities to continue lear
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
 ![Microsoft Fabric](https://custom-icon-badges.demolab.com/badge/Microsoft%20Fabric-5EA18A?logo=windows11&logoColor=white)
-![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white&labelcolor=white)
-![Looker](https://img.shields.io/badge/Looker-0073E6?style=flat&logo=looker&logoColor=white)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-0073E6?style=flat&logo=looker&logoColor=white&labelcolor=black)
 
 ### 📊 GitHub Stats
 <img src="https://myreadme.vercel.app/api/embed/marcgloaguen?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
