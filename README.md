@@ -6,7 +6,7 @@
 ### 👋 About me
 Hi! I’m **Marc**, from France. I am a **Data Scientist** and **Python Developer** with experience in various analytics engineering and machine learning projects. Currently, I'm working on leveraging complex **financial data** to deliver customized **Power BI solutions**. I also manage all **data processing** and **data orchestration** workflows.
 
-Outside of my work, I spend time on personal projects. I’m currently focused on the development of **Generative AI**, especially on **fine-tuning** and **RAG (Retrieval-Augmented Generation)** for **LLM (Large Language Models)**. Recently, I’ve also started to focus on mastering their integration into backend development with **Python**, particularly using **FastAPI**, or **Django**.
+Outside of my work, I spend time on personal projects. I’m currently focused on the development of **Generative AI**, especially on **fine-tuning** and **RAG (Retrieval-Augmented Generation)** for **LLM (Large Language Models)**. Recently, I’ve also started to focus on mastering their integration into backend development with **Python**, particularly using **FastAPI** , or **Django**.
 
 I am always on the lookout for new challenges and opportunities to continue learning and growing professionally.
 
@@ -33,6 +33,6 @@ I am always on the lookout for new challenges and opportunities to continue lear
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0073E6?style=flat&logo=looker&logoColor=white&labelcolor=black)
-
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&labelcolor=black)
 
 
