@@ -1,10 +1,11 @@
 
-## ⚙️ Data Engineer | SQL • Python • ETL • AWS
+## ⚙️ Data Engineer
 
 ![Python](https://img.shields.io/badge/-Python-4375ab?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3b3b3b?style=flat&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/-DuckDB-FAF250?logo=DuckDB&logoColor=black)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=Apache%20Spark&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white)
