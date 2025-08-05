@@ -1,6 +1,5 @@
 ## ⚙️ Data Engineer | Python Developer
 
----
 
 ### 📦 Languages & Environments
 ![Python](https://img.shields.io/badge/-Python-4375ab?logo=python&logoColor=white)
