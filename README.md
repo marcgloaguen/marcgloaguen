@@ -71,3 +71,4 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white)
+![Langchain](https://img.shields.io/badge/-Langchain-375961?style=flat&logo=langchain&logoColor=white)
