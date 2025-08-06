@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/-Python-4375ab?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3b3b3b?style=flat&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon&logoColor=white)
@@ -20,11 +19,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-
-<!-- 
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
+
+
+<!--
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 -->
+
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -38,6 +40,7 @@
 ![Talend](https://img.shields.io/badge/-Talend-0091DA?logo=talend&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white)
 ![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-4479A1?logo=amazonaws&logoColor=white)
+![Polars](https://img.shields.io/badge/-Polars-4B8BBE?logo=polars&logoColor=white)
 
 <!-- 
 ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
