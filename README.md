@@ -33,7 +33,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
-![DuckDB](https://img.shields.io/badge/-DuckDB-FAF250?logo=DuckDB&logoColor=black)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white)
+
 
 ### 🔄 Data Engineering
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=Apache%20Spark&logoColor=white)
@@ -41,6 +42,7 @@
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white)
 ![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-4479A1?logo=amazonaws&logoColor=white)
 ![Polars](https://img.shields.io/badge/-Polars-4B8BBE?logo=polars&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FAF250?logo=DuckDB&logoColor=black)
 
 <!-- 
 ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
