@@ -34,7 +34,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white)
-![Motherduck](https://img.shields.io/badge/-Motherduck-181717?logo=DuckDB&logoColor=black)
+![Motherduck](https://img.shields.io/badge/-Motherduck-181717?logo=DuckDB&logoColor=white)
 
 
 ### 🔄 Data Engineering
