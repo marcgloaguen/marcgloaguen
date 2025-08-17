@@ -20,11 +20,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 
 
 <!--
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 -->
 
 
@@ -43,6 +43,7 @@
 ![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-4479A1?logo=amazonaws&logoColor=white)
 ![Polars](https://img.shields.io/badge/-Polars-4B8BBE?logo=polars&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/-DuckDB-FAF250?logo=DuckDB&logoColor=black)
+![Airbyte](https://img.shields.io/badge/-Airbyte-615EFF?logo=airbyte&logoColor=white)  
 
 <!-- 
 ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
