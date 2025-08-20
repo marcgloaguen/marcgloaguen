@@ -28,7 +28,7 @@
 
 ### 🔄 Data Engineering
 ![Talend](https://img.shields.io/badge/-Talend-0091DA?logo=talend&logoColor=white)
-![Airbyte](https://img.shields.io/badge/-Airbyte-615EFF?logo=airbyte&logoColor=white)  
+![Airbyte](https://img.shields.io/badge/-Airbyte-615EFF?logo=airbyte&logoColor=white)
 ![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-4479A1?logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=Apache%20Spark&logoColor=white)
