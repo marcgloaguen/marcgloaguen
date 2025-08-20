@@ -11,22 +11,11 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-<!-- 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
--->
-
 ### 🔧 Version Control & CI/CD
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-
-
-<!--
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
--->
-
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -38,18 +27,14 @@
 
 
 ### 🔄 Data Engineering
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=Apache%20Spark&logoColor=white)
 ![Talend](https://img.shields.io/badge/-Talend-0091DA?logo=talend&logoColor=white)
-![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white)
+![Airbyte](https://img.shields.io/badge/-Airbyte-615EFF?logo=airbyte&logoColor=white)  
 ![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-4479A1?logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=Apache%20Spark&logoColor=white)
 ![Polars](https://img.shields.io/badge/-Polars-4B8BBE?logo=polars&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/-DuckDB-FAF250?logo=DuckDB&logoColor=black)
-![Airbyte](https://img.shields.io/badge/-Airbyte-615EFF?logo=airbyte&logoColor=white)  
-
-<!-- 
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
--->
+![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white)
 
 ### 🧪 Testing & Data Validation
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
