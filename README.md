@@ -29,18 +29,21 @@ J'ai une expertise forte dans le **design d'architecture data** — de la modél
 
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=Apache%20Spark&logoColor=white)
 ![Polars](https://img.shields.io/badge/-Polars-4B8BBE?logo=polars&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/-DuckDB-FAF250?logo=DuckDB&logoColor=black)
-![MotherDuck](https://img.shields.io/badge/-MotherDuck-191919?logo=duckdb&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
 
 **Data Warehouse**
 
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![MotherDuck](https://img.shields.io/badge/-MotherDuck-191919?logo=duckdb&logoColor=white)
 
 **Data Engineering**
 
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white)
 ![Talend](https://img.shields.io/badge/-Talend-0091DA?logo=talend&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 
 **Qualité & Tests**
 
@@ -59,10 +62,3 @@ J'ai une expertise forte dans le **design d'architecture data** — de la modél
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
-
-**Web & API**
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
